@@ -1,0 +1,50 @@
+.title {
+    color: darkcyan;
+    font-variant: small-caps;
+}
+
+.modified-title {
+    color: red;
+    font: bold;
+}
+
+.list-elements {
+    list-style: none;
+    font-size: 16px;
+    font-variant: small-caps;
+    background-color: rgba(59, 148, 58, 0.4);
+    border-radius: 100px;
+    margin: 10px;
+    width: 50vw;
+    text-align: center;
+}
+
+.maSuperClasse {
+    color: white;
+}
+
+#paragraph {
+    color: yellow;
+    text-shadow: 1px 1px 1px black;
+    font-weight: bold;
+}
+
+.maClasse {
+    color: yellow;
+    font-weight: bold;
+}
+
+.maSuperParagraph {
+    color: red;
+    font-weight: bold;
+}
+
+.modified-paragraph {
+    color: blue;
+    font-weight: bold;
+}
+
+.modified-ul {
+    color: red;
+    font-weight: bold;
+}
